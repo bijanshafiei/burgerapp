@@ -1,0 +1,14 @@
+* {
+	text-align: center;
+}
+body{
+	background-color: #A40000;
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 14px;
+	line-height: 1;
+	color: #333;
+}
+
+.jumbotron {
+	background-color: transparent;
+}
